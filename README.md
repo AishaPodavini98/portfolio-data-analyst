@@ -5,7 +5,7 @@ In questa repository trovi una selezione di progetti pratici sviluppati durante 
 I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in modo da comunicare in modo chiaro e visivo le analisi svolte.
 
 ## Progetti completati
-### 1. Analisi SQL su database ordini
+### 1. Analisi SQL
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
 - **Strumenti usati**: (CTE – Common Table Expressions, `AVG`, `GROUP BY`), Canva per la presentazione
 - **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dei%20dati%20SQL.pdf

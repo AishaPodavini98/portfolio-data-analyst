@@ -1,4 +1,4 @@
-# Portfolio-data-analyst
+# Portfolio Data Analyst
 Benvenuti nel mio portfolio da Data Analyst!  
 In questa repository trovi una selezione di progetti pratici sviluppati durante il mio percorso formativo.
 

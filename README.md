@@ -1,4 +1,4 @@
-# portfolio-data-analyst
+# Portfolio-data-analyst
 Benvenuti nel mio portfolio da Data Analyst!  
 In questa repository trovi una selezione di progetti pratici sviluppati durante il mio percorso formativo.
 
@@ -14,3 +14,13 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 - **Obiettivo**: creare una dashboard interattiva in Excel per esplorare le vendite e la spesa totale in base a più dimensioni.
 - **Strumenti utilizzati**: Excel (tabelle pivot, filtri, grafici a barre e a torta), Canva per la presentazione
 - - **Contenuti**:
+
+
+## Altri strumenti che utilizzerò:
+- Python
+- Power BI
+- Tableau
+
+---
+
+*Progetti in corso dal corso Udemy “Percorso completo di Data Analysis” di Nicola Iantomasi.*

@@ -13,7 +13,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 ### 2. Dashboard Excel – Analisi vendite e spesa
 - **Obiettivo**: creare una dashboard interattiva in Excel per esplorare le vendite e la spesa totale in base a più dimensioni.
 - **Strumenti utilizzati**: Excel (tabelle pivot, filtri, grafici a barre e a torta), Canva per la presentazione
--  **Contenuti**:
+-  **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dei%20dati%20con%20Excel.pdf
 
 
 ## Altri strumenti che utilizzerò:

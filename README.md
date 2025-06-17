@@ -8,7 +8,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 ### 1. Analisi SQL su database ordini
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
 - **Strumenti usati**: (CTE – Common Table Expressions, `AVG`, `GROUP BY`), Canva per la presentazione
-- **Contenuti**: [Scarica la presentazione PDF] (https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dei%20dati%20SQL.pdf)
+- **Contenuti**: (https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dei%20dati%20SQL.pdf)
 
 ### 2. Dashboard Excel – Analisi vendite e spesa
 - **Obiettivo**: creare una dashboard interattiva in Excel per esplorare le vendite e la spesa totale in base a più dimensioni.

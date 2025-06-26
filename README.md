@@ -5,7 +5,7 @@ In questa repository trovi una selezione di progetti pratici sviluppati durante 
 I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in modo da comunicare in modo chiaro e visivo le analisi svolte.
 
 ## Progetti completati
-### 1. Analisi SQL vs MANGODB
+### 1. Analisi SQL vs MONGODB
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
   Ho eseguito un confronto tra l’approccio tradizionale SQL e quello NoSQL con MongoDB per analizzare i dati relativi agli esperimenti.
 - **Strumenti usati**: SQL:(CTE – Common Table Expressions, `AVG`, `GROUP BY`), MongoDB: Aggregation Framework ($addFields, $group, $avg, $sort), Canva per la presentazion

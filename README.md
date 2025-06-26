@@ -9,7 +9,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
   Ho eseguito un confronto tra l’approccio tradizionale SQL e quello NoSQL con MongoDB per analizzare i dati relativi agli esperimenti.
 - **Strumenti usati**: SQL:(CTE – Common Table Expressions, `AVG`, `GROUP BY`), MongoDB: Aggregation Framework ($addFields, $group, $avg, $sort), Canva per la presentazion
-- **Contenuti**: 
+- **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dati%20SQL%20%26%20MongoDB.pdf
 
 ### 2. Dashboard Excel – Analisi vendite e spesa
 - **Obiettivo**: creare una dashboard interattiva in Excel per esplorare le vendite e la spesa totale in base a più dimensioni.

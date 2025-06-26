@@ -5,10 +5,11 @@ In questa repository trovi una selezione di progetti pratici sviluppati durante 
 I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in modo da comunicare in modo chiaro e visivo le analisi svolte.
 
 ## Progetti completati
-### 1. Analisi SQL
+### 1. Analisi SQL vs MANGODB
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
-- **Strumenti usati**: (CTE – Common Table Expressions, `AVG`, `GROUP BY`), Canva per la presentazione
-- **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20dei%20dati%20SQL.pdf
+  Ho eseguito un confronto tra l’approccio tradizionale SQL e quello NoSQL con MongoDB per analizzare i dati relativi agli esperimenti.
+- **Strumenti usati**: SQL:(CTE – Common Table Expressions, `AVG`, `GROUP BY`), MongoDB: Aggregation Framework ($addFields, $group, $avg, $sort), Canva per la presentazion
+- **Contenuti**: 
 
 ### 2. Dashboard Excel – Analisi vendite e spesa
 - **Obiettivo**: creare una dashboard interattiva in Excel per esplorare le vendite e la spesa totale in base a più dimensioni.

@@ -19,7 +19,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 ### 3. Analisi fatturazione con Power BI
 - **Obiettivo**: analizzare l’andamento delle fatture, individuare i principali attori coinvolti (clienti, fornitori, corrieri) e identificare eventuali picchi o tendenze nel periodo tra fine 2018 e inizio 2019.
 -  **Strumenti utilizzati**: Power BI per la modellazione e visualizzazione dei dati; DAX (IF, OR, BLANK) per la creazione di misure e colonne calcolate, Canva per la presentazione.
--  **Contenuti**:
+-  **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Dashboard%20Fatturazione%20con%20Power%20BI.pdf
 
 
 ## Altri strumenti che utilizzerò:

@@ -28,7 +28,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 ## 5. Analisi delle Vendite e Profitti con SQL e Power BI
 - **Obiettivo**: Identificare trend di redditività, valutare la performance di categorie e sottocategorie di prodotto, analizzare i cambiamenti nella base clienti nel tempo e verificare la coerenza e qualità dei dati, al fine di supportare decisioni strategiche data-driven.
 - **Strumenti utilizzati**: SQL per l’estrazione, manipolazione e analisi dei dati, Power BI: per la visualizzazione dei dati e la creazione di dashboard interattive, Canva per la presentazione.
--  **Contenuti**:
+-  **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20delle%20Vendite%20e%20Profitti%20con%20SQL%20e%20Power%20BI.pdf
 
 
 

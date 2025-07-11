@@ -4,7 +4,6 @@ In questa repository trovi una selezione di progetti pratici sviluppati durante 
 
 I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in modo da comunicare in modo chiaro e visivo le analisi svolte.
 
-## Progetti completati
 ### 1. Analisi SQL vs MONGODB
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
   Ho eseguito un confronto tra l’approccio tradizionale SQL e quello NoSQL con MongoDB per analizzare i dati relativi agli esperimenti.
@@ -18,12 +17,20 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 
 ### 3. Analisi fatturazione con Power BI
 - **Obiettivo**: analizzare l’andamento delle fatture, individuare i principali attori coinvolti (clienti, fornitori, corrieri) e identificare eventuali picchi o tendenze nel periodo tra fine 2018 e inizio 2019.
--  **Strumenti utilizzati**: Power BI per la modellazione e visualizzazione dei dati; DAX (IF, OR, BLANK) per la creazione di misure e colonne calcolate, Canva per la presentazione.
+-  **Strumenti utilizzati**: Power BI per la modellazione e visualizzazione dei dati, DAX (IF, OR, BLANK) per la creazione di misure e colonne calcolate, Canva per la presentazione.
 -  **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Dashboard%20Fatturazione%20con%20Power%20BI.pdf
 
+## 4. Analisi esplorativa con Python
+- **Obiettivo**: Analizzare i dati dei passeggeri del Titanic per capire quali fattori hanno influenzato la sopravvivenza.
+- **Strumenti utilizzati**: JupyterLab per l'ambiente di sviluppo, librerie utilizzate: Pandas, NumPy, Matplotlib e Seaborn, Canva per la presentazione.
+-  **Contenuti**:
 
-## Altri strumenti che utilizzerò:
-- Tableau
+## 5. Analisi delle Vendite e Profitti con SQL e Power BI
+- **Obiettivo**: Identificare trend di redditività, valutare la performance di categorie e sottocategorie di prodotto, analizzare i cambiamenti nella base clienti nel tempo e verificare la coerenza e qualità dei dati, al fine di supportare decisioni strategiche data-driven.
+- **Strumenti utilizzati**: SQL per l’estrazione, manipolazione e analisi dei dati, Power BI: per la visualizzazione dei dati e la creazione di dashboard interattive, Canva per la presentazione.
+-  **Contenuti**:
+
+
 
 ---
 

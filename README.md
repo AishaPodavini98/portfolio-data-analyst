@@ -23,7 +23,7 @@ I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in m
 ## 4. Analisi esplorativa con Python
 - **Obiettivo**: Analizzare i dati dei passeggeri del Titanic per capire quali fattori hanno influenzato la sopravvivenza.
 - **Strumenti utilizzati**: JupyterLab per l'ambiente di sviluppo, librerie utilizzate: Pandas, NumPy, Matplotlib e Seaborn, Canva per la presentazione.
--  **Contenuti**:
+-  **Contenuti**: https://github.com/AishaPodavini98/portfolio-data-analyst/blob/main/Analisi%20Esplorativa%20con%20Python.pdf
 
 ## 5. Analisi delle Vendite e Profitti con SQL e Power BI
 - **Obiettivo**: Identificare trend di redditività, valutare la performance di categorie e sottocategorie di prodotto, analizzare i cambiamenti nella base clienti nel tempo e verificare la coerenza e qualità dei dati, al fine di supportare decisioni strategiche data-driven.

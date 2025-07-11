@@ -2,7 +2,6 @@
 Benvenuti nel mio portfolio da Data Analyst!  
 In questa repository trovi una selezione di progetti pratici sviluppati durante il mio percorso formativo.
 
-I progetti sono sintetizzati in **presentazioni PDF** realizzate con Canva, in modo da comunicare in modo chiaro e visivo le analisi svolte.
 
 ### 1. Analisi SQL vs MONGODB
 - **Obiettivo**: analizzare come è cambiato il valore medio degli esperimenti effettuati da ciascun operatore prima e dopo l’introduzione di un nuovo macchinario.
